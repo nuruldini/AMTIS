@@ -62,7 +62,7 @@
                 <ul class='list-group'>
                     <li class='list-group-item'>Power: <strong>$power Wh</strong></li>
                     <li class='list-group-item'>Energy: <strong>$energy kWh</strong></li>
-                    <li class='list-group-item'>Total Charge: <strong>$$total</strong></li>
+                    <li class='list-group-item'>Total Charge: <strong>RM$total</strong></li>
                 </ul>
             </div>";
         }
